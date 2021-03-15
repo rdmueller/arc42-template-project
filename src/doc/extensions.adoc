@@ -1,0 +1,21 @@
+//Sie wollen für Ihr Team das arc42-Template ergänzen?
+//formulieren Sie in dieser Datei Ihre ergänzung zu den jeweiligen Kapiteln
+//und sie werden automatisch am Ende der Kapitel als Hilfstexte aufgeführt
+
+//tag::chapter_01
+
+//end::chapter_01
+
+
+//tag::chapter_02
+
+=== Weitere Infos
+
+Hier steht eine firmenspezifische Ergänzung
+
+//end::chapter_02
+
+
+//tag::chapter_03
+
+//end::chapter_03
