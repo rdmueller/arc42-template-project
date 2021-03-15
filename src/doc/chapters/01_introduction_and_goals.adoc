@@ -74,3 +74,5 @@ Tabelle mit Rollen- oder Personennamen, sowie deren Erwartungshaltung bezüglich
 | _<Rolle-1>_ | _<Kontakt-1>_ | _<Erwartung-1>_
 | _<Rolle-2>_ | _<Kontakt-2>_ | _<Erwartung-2>_ 
 |===
+
+include::../extensions.adoc[tags=chapter_01]
